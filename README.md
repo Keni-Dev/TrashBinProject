@@ -1,12 +1,12 @@
 # TrashBinProject
 
-# main.ino
+## [main.ino](https://github.com/Keni-Dev/TrashBinProject/blob/main/main.ino) 
 
 	- Arduino script (c++)
 
 	- Recieves data sent from python
 
-# main.py
+## [main.py](https://github.com/Keni-Dev/TrashBinProject/blob/main/main.py) 
 
 	- Python script
 
@@ -15,7 +15,7 @@
 	- Can send data using your voice
 
 
-# main_manual_input.py
+## [main_manual_input.py](https://github.com/Keni-Dev/TrashBinProject/blob/main/main_manual_input.py) 
 
 	- Python script
 
